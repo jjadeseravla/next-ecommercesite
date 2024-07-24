@@ -17,6 +17,9 @@ const config: Config = {
     colors: {
       burntPink: '#F35C7A',
       white: '#FFFFFF',
+      black: '#000000',
+      myBlue: '#00008B',
+      gray: '#A9A9A9',
     }
   },
   plugins: [],
