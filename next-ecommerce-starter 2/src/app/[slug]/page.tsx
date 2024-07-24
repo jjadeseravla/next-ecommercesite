@@ -4,7 +4,7 @@ import React from 'react';
 const SinglePage = () => {
   return (
     <div>
-      <h1>List Page</h1>
+      <h1>Single Page</h1>
     </div>
   );
 };
